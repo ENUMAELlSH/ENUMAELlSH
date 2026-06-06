@@ -1,5 +1,9 @@
 <p align=center>
-<img src="auo.png" width="20%" height="30%"/> <br>
-<br>
-<img src="https://komarev.com/ghpvc/?username=llonheart&color=c71f1f&style=plastic&label=++mongrels+++&abrreviated=true"/>
+<img src="kingofheroes.gif" width="60%" height="70%"/> <br>
+<img src="ubw.png" width="50%" height="60%"/> <br>
+<img src="https://komarev.com/ghpvc/?username=llonheart&color=f5cd30&style=plastic&label=+++++𒇽𒆤𒇲++++++&abrreviated=true"/> <br>
+<a href=https://enumaelish.atabook.org> <img src="atbk.gif" width="30%" height="40%"/> </a>
+  <img src="mirasol.gif" width="20%" height="30%" />
+  <a href=https://rentry.co/KINGOFHEROES> <img src="rntry.gif" width="30%" height="40%"/> </a> <br>
+<a href=https://imbalanceblue.straw.page> <img src="strawp.gif" width="30%" height="40%"/> </a>
 </p>
