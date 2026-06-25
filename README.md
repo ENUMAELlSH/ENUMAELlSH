@@ -1,6 +1,4 @@
 <p align=center>
-<img src="kingofheroes.gif" width="60%" height="70%"/> <br>
-<img src="ubw.png" width="50%" height="60%"/> <br>
 <img src="https://komarev.com/ghpvc/?username=llonheart&color=f5cd30&style=plastic&label=+++++𒇽𒆤𒇲++++++&abrreviated=true"/> <br>
 <a href=https://enumaelish.atabook.org> <img src="atbk.gif" width="30%" height="40%"/> </a>
   <img src="mirasol.gif" width="20%" height="30%" />
