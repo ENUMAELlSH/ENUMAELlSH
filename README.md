@@ -5,5 +5,5 @@
 <a href=https://enumaelish.atabook.org> <img src="atbk.gif" width="30%" height="40%"/> </a>
   <img src="mirasol.gif" width="20%" height="30%" />
   <a href=https://rentry.co/KINGOFHEROES> <img src="rntry.gif" width="30%" height="40%"/> </a> <br>
-<a href=https://imbalanceblue.straw.page> <img src="strawp.gif" width="30%" height="40%"/> </a>
+<a href=https://hiphophero.straw.page> <img src="strawp.gif" width="30%" height="40%"/> </a>
 </p>
