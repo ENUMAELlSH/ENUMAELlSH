@@ -9,5 +9,6 @@
   <a href=https://rentry.co/KINGOFHEROES> <img src="rntry.gif" width="15%" height="40%"/> </a> <br>
 <a href=https://hiphophero.straw.page> <img src="strawp.gif" width="15%" height="40%"/> </a> <br>
 <br>
-  remake soon...
+  remake soon... <br>
+<img src="primecolor.gif" width="15%" height="40%" />
 </p>
