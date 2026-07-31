@@ -27,7 +27,7 @@
 
 <div align=center>
 
-| <a href="kingofheroes.gif" width="30%" height="40%"> </a> |
+| <img src="kingofheroes.gif"> </a> |
 | :---: |  
 | <details><summary> <code> titles </code> </summary> [𒀸](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) [𒐀](https://github.com/pt-fashion#:~:text=enumaellsh) [𒐁]() [𒐂](https://github.com/fans-town#:~:text=ENUMAELlSH) [𒐃](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) </details> |
 | <details> <summary> <code> duranki </code> </summary> <details><summary> lugal </summary> <a href="duranki.png"> </a> </details> |
