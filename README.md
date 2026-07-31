@@ -10,7 +10,7 @@
     
 <img src="primecolor.gif" />
     <br>
-<code> primary colors with <a href="github.com/vatrinyasin"> red chud </a> & <a href="github.com/ramudaa"> blue chud </a> </code>
+<code> primary colors with <a href="https://github.com/vatrinyasin"> red chud </a> & <a href="https://github.com/ramudaa"> blue chud </a> </code>
     <br>
 
 <a href=https://enumaelish.atabook.org>
@@ -29,7 +29,7 @@
 
 | <a href="kingofheroes.gif" width="30%" height="40%"> </a> |
 | :---: |  
-| <details><summary> <code> titles </code> </summary> [𒀸](https://github.com/fans-town#:~:text=%40ENUMAELlSH%20%3A%20Gilgamesh%E2%80%98s%20biggest%20fan!) </details> |
+| <details><summary> <code> titles </code> </summary> [𒀸](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) [𒐀](https://github.com/pt-fashion#:~:text=enumaellsh) [𒐁]() [𒐂](https://github.com/fans-town#:~:text=ENUMAELlSH) [𒐃](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) </details> |
 | <details> <summary> <code> duranki </code> </summary> <details><summary> lugal </summary> <a href="duranki.png"> </a> </details> |
 
 </div>
