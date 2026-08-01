@@ -10,7 +10,9 @@
     
 <img src="primecolor.gif" />
     <br>
-<code> primary colors with <a href="https://github.com/vatrinyasin"> red chud </a> & <a href="https://github.com/ramudaa"> blue chud </a> </code>
+<code> primary colors with </code>
+    <br>
+<code> <a href="https://github.com/vatrinyasin"> red chud </a> & <a href="https://github.com/ramudaa"> blue chud </a> </code>
     <br>
 
 <a href=https://enumaelish.atabook.org>
@@ -27,13 +29,13 @@
 
 <div align=center>
 
-| <img src="kingofheroes.gif"> </a> |
+| <img src="kingofheroes.gif" width="67%"> </a> |
 | :---: |  
-| <details><summary> <code> titles </code> </summary> [𒀸](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) [𒐀](https://github.com/pt-fashion#:~:text=enumaellsh) [𒐁](https://github.com/pt-hall-of-media#:~:text=ENUMAELlSH) [𒐂](https://github.com/fans-town#:~:text=ENUMAELlSH) [𒐃](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) </details> |
+| <details><summary> <code> titles </code> </summary> 𒉈𒂗 𒊕𒈬 𒅎𒄾 <br> [𒀸](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) [𒐀](https://github.com/pt-fashion#:~:text=enumaellsh) [𒐁](https://github.com/pt-hall-of-media#:~:text=ENUMAELlSH) [𒐂](https://github.com/fans-town#:~:text=ENUMAELlSH) [𒐃](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) [𒐄](https://github.com/pt-fashion#:~:text=%40-,ENUMAELlSH,-ponytown%27s%20Gilgamesh) </details> |
 | <details> <summary> <code> duranki </code> </summary> <details><summary> lugal </summary> <a href="duranki.png"> </a> </details> |
 
 </div>
 
 <p align=center>
-<code> no more remake, just adding more stuff ^^ </code>
+<code> tba </code>
 </p>
