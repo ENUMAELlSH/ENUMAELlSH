@@ -16,26 +16,26 @@
     <br>
 
 <a href=https://enumaelish.atabook.org>
-    <img src="atbk.gif" width="11%" height="40%"/>
+    <img src="atbk.gif" width="21%" height="40%"/>
     </a>
     
 <a href=https://hiphophero.straw.page>
-    <img src="strawp.gif" width="11%" height="40%"/>
+    <img src="strawp.gif" width="21%" height="40%"/>
     </a>
     
 <a href=https://rentry.co/KINGOFHEROES>
-    <img src="rntry.gif" width="10%" height="40%"/>
+    <img src="rntry.gif" width="20%" height="40%"/>
     </a> </p>
 
 <div align=center>
 
 | <img src="kingofheroes.gif" width="67%"> </a> |
 | :---: |  
-| <details><summary> <code> titles </code> </summary> 𒉈𒂗 𒊕𒈬 𒅎𒄾 <br> [𒀸](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) [𒐀](https://github.com/pt-fashion#:~:text=enumaellsh) [𒐁](https://github.com/pt-hall-of-media#:~:text=ENUMAELlSH) [𒐂](https://github.com/fans-town#:~:text=ENUMAELlSH) [𒐃](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) [𒐄](https://github.com/pt-fashion#:~:text=%40-,ENUMAELlSH,-ponytown%27s%20Gilgamesh) </details> |
-| <details> <summary> <code> duranki </code> </summary> <details><summary> lugal </summary> <a href="duranki.png"> </a> </details> |
+| <details><summary> <code> titles </code> </summary> <br> 𒉈𒂗 𒊕𒈬 𒅎𒄾 <br> <br> [𒀸](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) <br> <code> walk-of-fame gilgamesh </code> <br> <br> [𒐀](https://github.com/pt-fashion#:~:text=enumaellsh) <br> <code> pt-fashion coolest ponies </code> <br> <br> [𒐁](https://github.com/pt-hall-of-media#:~:text=ENUMAELlSH) <br> <code> hall-of-media gilgamesh </code> <br> <br> [𒐂](https://github.com/fans-town#:~:text=ENUMAELlSH) <br> <code> fans-town gilgamesh </code> <br> <br> [𒐃](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) <br> <code> pt-of-awesomeness gilgamesh </code> <br> <br> [𒐄](https://github.com/pt-fashion#:~:text=%40-,ENUMAELlSH,-ponytown%27s%20Gilgamesh) <br> <code> pt-fashion gilgamesh </code> <br> <br> [𒐅](https://github.com/pt-hall-of-media#:~:text=Primary%20Colors) <br> <code> hall-of-media primary colors </code> <br> <br> [𒐆](https://github.com/title-town#:~:text=enumaellsh) <br> <code> title-town gilgamesh </code> <br> <br> [𒐇](https://github.com/pt-medals#:~:text=ENUMAELlSH) <br> <code> pt-medals gilgamesh </code> <br> <br> [𒌋](https://github.com/pt-medals#:~:text=%3B%20vatrinyasin%20%3B-,ENUMAELlSH,-%E2%9C%A6) <br> <code> pt-medals online warrior </code> <br> <br> </details> |
+| <details> <summary> <code> duranki </code> </summary> <details><summary> soon... </summary> <a href="duranki.png"> </a> </details> |
 
 </div>
 
 <p align=center>
-<code> tba </code>
+<code> work in progress ; ) </code>
 </p>
