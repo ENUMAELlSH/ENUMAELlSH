@@ -10,20 +10,11 @@
     
 <img src="primecolor.gif" />
     <br>
-<code> primary colors with </code>
-    <br>
-<code> <a href="https://github.com/vatrinyasin"> red chud </a> & <a href="https://github.com/ramudaa"> blue chud </a> </code>
-    <br>
 
 <div align=center>
 
-| [atabook](https://enumaelish.atabook.org/) 𒀭 [strawpage](https://hiphophero.straw.page) 𒀭 [pronouns](https://pronouns.cc/crashkeys) <br> [listography](https://listography.com/ascension) 𒀭 [rayshift](https://rayshift.io/na/631019289) </a> |
+[atabook](https://enumaelish.atabook.org/) 𒀭 [strawpage](https://hiphophero.straw.page) 𒀭 [pronouns](https://pronouns.cc/crashkeys) <br> [listography](https://listography.com/ascension) 𒀭 [rayshift](https://rayshift.io/na/631019289) </a>
+
+| <code> titles </code> <br> |
 | :---: |  
-| <details><summary> <code> titles </code> </summary> <br> 𒉈𒂗 𒊕𒈬 𒅎𒄾 <br> <br> [𒐕](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) <br> <code> walk-of-fame </code> <br> <code> gilgamesh </code> <br> <br> [𒐖](https://github.com/pt-fashion#:~:text=enumaellsh) <br> <code> pt-fashion </code> <br> <code> coolest ponies </code> <br> <br> [𒐗](https://github.com/pt-hall-of-media#:~:text=ENUMAELlSH) <br> <code> hall-of-media </code> <br> <code> gilgamesh </code> <br> <code> #1 type-moon fan </code> <br> <br> [𒐘](https://github.com/fans-town#:~:text=ENUMAELlSH) <br> <code> fans-town </code> <br> <code> gilgamesh </code> <br> <br> [𒐙](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) <br> <code> pt-of-awesomeness </code> <br> <code> gilgamesh </code> <br> <br> [𒐚](https://github.com/pt-fashion#:~:text=%40-,ENUMAELlSH,-ponytown%27s%20Gilgamesh) <br> <code> pt-fashion </code> <br> <code> gilgamesh </code> <br> <br> [𒐛](https://github.com/pt-hall-of-media#:~:text=Primary%20Colors) <br> <code> hall-of-media </code> <br> <code> primary colors </code> <br> <br> [𒐜](https://github.com/title-town#:~:text=enumaellsh) <br> <code> title-town </code> <br> <code> gilgamesh </code> <br> <br> [𒐝](https://github.com/pt-medals#:~:text=ENUMAELlSH) <br> <code> pt-medals </code> <br> <code> gilgamesh </code> <br> <br> [𒌋](https://github.com/pt-medals2#:~:text=ENUMAELlSH) <br> <code> pt-medals2 </code> <br> <code> online warrior </code> <br> <br> [𒌋𒐕](https://github.com/pt-nominations#:~:text=ENUMAELlSH) <br> <code> pt-nominations </code> <br> <code> gilgamesh </code> <br> <br> [𒌋𒐖](https://github.com/ponytownyumeshippers#:~:text=ENUMAELlSH) <br> <code> ponytownyumeshippers </code> <br> <code> emiya shirou & saber yume </code> <br> <br> [𒌋𒐗](https://github.com/pt-friendships#:~:text=enumaelish) <br> <code> pt-friendships </code> <br> <code> kunalings </code> <br> <br> </details> |
-| <details> <summary> <code> duranki </code> </summary> <details><summary> soon... </summary> <a href="duranki.png"> </a> </details> |
-
-</div>
-
-<p align=center>
-<code> work in progress ; ) </code>
-</p>
+| <details> <summary> <code> 𒉈𒂗 𒊕𒈬 𒅎𒄾 </code> </summary> <br> <br> [𒐕](https://github.com/pt-walk-of-fame#:~:text=ENUMAELlSH) <br> <code> walk-of-fame </code> <br> <code> gilgamesh </code> <br> <br> [𒐖](https://github.com/pt-fashion#:~:text=enumaellsh) <br> <code> pt-fashion </code> <br> <code> coolest ponies </code> <br> <br> [𒐗](https://github.com/pt-hall-of-media#:~:text=ENUMAELlSH) <br> <code> hall-of-media </code> <br> <code> gilgamesh </code> <br> <code> #1 type-moon fan </code> <br> <br> [𒐘](https://github.com/fans-town#:~:text=ENUMAELlSH) <br> <code> fans-town </code> <br> <code> gilgamesh </code> <br> <br> [𒐙](https://github.com/pt-of-awesomeness#:~:text=ENUMAELlSH) <br> <code> pt-of-awesomeness </code> <br> <code> gilgamesh </code> <br> <br> [𒐚](https://github.com/pt-fashion#:~:text=%40-,ENUMAELlSH,-ponytown%27s%20Gilgamesh) <br> <code> pt-fashion </code> <br> <code> gilgamesh </code> <br> <br> [𒐛](https://github.com/pt-hall-of-media#:~:text=Primary%20Colors) <br> <code> hall-of-media </code> <br> <code> primary colors </code> <br> <br> [𒐜](https://github.com/title-town#:~:text=enumaellsh) <br> <code> title-town </code> <br> <code> gilgamesh </code> <br> <br> [𒐝](https://github.com/pt-medals#:~:text=ENUMAELlSH) <br> <code> pt-medals </code> <br> <code> gilgamesh </code> <br> <br> [𒌋](https://github.com/pt-medals2#:~:text=ENUMAELlSH) <br> <code> pt-medals2 </code> <br> <code> online warrior </code> <br> <br> [𒌋𒐕](https://github.com/pt-nominations#:~:text=ENUMAELlSH) <br> <code> pt-nominations </code> <br> <code> gilgamesh </code> <br> <br> [𒌋𒐖](https://github.com/ponytownyumeshippers#:~:text=ENUMAELlSH) <br> <code> ponytownyumeshippers </code> <br> <code> emiya shirou & saber yume </code> <br> <br> [𒌋𒐗](https://github.com/pt-friendships#:~:text=enumaelish) <br> <code> pt-friendships </code> <br> <code> kunalings </code> <br> <br> </details> |
